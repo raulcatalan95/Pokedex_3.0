@@ -77,6 +77,7 @@ export default {
 <style lang="scss" scoped>
 .q-header{
 background-color: $negative;
+color: yellow;
 }
 
 </style>
